@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Man in a Cap - Handyman Services</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      margin-top: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .contact {
+      background: #e9ffe9;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Man in a Cap</h1>
+  <p>Your Local Handyman – Reliable, Friendly, and On Time</p>
+</header>
+
+<section>
+  <h2>What I Do</h2>
+  <p>I'm a local handyman offering help with small jobs around the house and garden. Whether it's putting up shelves, fixing a leaky tap, or painting a room – I'm here to help.</p>
+</section>
+
+<section>
+  <h2>Areas Covered</h2>
+  <p>Based in Isleham, I work across Mildenhall, Newmarket, Soham, Fordham, Ely, and surrounding villages.</p>
+</section>
+
+<section class="contact">
+  <h2>Get in Touch</h2>
+  <p>Call or text: <strong>07700 123456</strong></p>
+  <p>Email: <a href="mailto:info@maninacap.co.uk">info@maninacap.co.uk</a></p>
+  <p>Or send a message on Facebook: <a href="https://facebook.com/yourpage" target="_blank">facebook.com/yourpage</a></p>
+</section>
+
+<footer>
+  &copy; 2025 Man in a Cap. All rights reserved.
+</footer>
+
+</body>
+</html>
